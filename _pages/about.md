@@ -34,10 +34,6 @@ Projects:
 
 All types include: -Major -Natural Minor -Harmonic Minor -Melodic Minor
 
-Input MUST be capitalized, such as A Harmonic Minor Eb Major F# Melodic Minor
-
-INPUT WILL NOT BE RECOGNIZED IF THE LETTERS SHOWN ABOVE ARE NOT CAPITALIZED NO THEORETICAL KEYS ARE ACCEPTED, ONLY ENHARMONICS ALLOWED
-
 		
 Contact:
 
