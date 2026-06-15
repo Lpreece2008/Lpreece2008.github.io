@@ -30,7 +30,7 @@ Courses:
 
 Projects:
 
-[musictheoryhelper](https://github.com/Lpreece2008/musicTheoryScaleHelper) Input scales that appear specifically on the Circle of Fifths, Major or Minor.
+[musictheoryhelper](https://github.com/Lpreece2008/musicTheoryScaleHelper) Input scales that appear specifically on the Circle of Fifths.
 [heatsheetmaker](https://github.com/Lpreece2008/heatSheet) Editable heat sheet for track and field events.
 
 [uistartpage](https://github.com/WyattLewandowski/startPageUi) Start page UI for government use.
