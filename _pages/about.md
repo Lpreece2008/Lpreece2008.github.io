@@ -31,8 +31,11 @@ Courses:
 Projects:
 
 [musictheoryhelper](https://github.com/Lpreece2008/musicTheoryScaleHelper) Input scales that appear specifically on the Circle of Fifths, Major or Minor.
+[heatsheetmaker](https://github.com/Lpreece2008/heatSheet) Editable heat sheet for track and field events.
 
-All types include: -Major -Natural Minor -Harmonic Minor -Melodic Minor
+[uistartpage](https://github.com/WyattLewandowski/startPageUi) Start page UI for government use.
+
+[trumpettrainer](https://github.com/Lpreece2008/TrumpetTrainer) App to practice trumpet fingerings.
 
 		
 Contact:
